@@ -12,12 +12,6 @@
           alt="GitHub Stats"
         />
       </td>
-      <td>
-        <img
-          src="https://streak-stats.demolab.com/?user=reim-developer&theme=tokyonight"
-          alt="GitHub Stats"
-        />
-      </td>
         <td>
         <img
           src="https://github-trophies.vercel.app/?username=reim-developer&theme=onedark&no-frame=false&no-bg=false&margin-w=4"
