@@ -17,7 +17,12 @@
           src="https://github-trophies.vercel.app/?username=reim-developer&theme=onedark&no-frame=false&no-bg=false&margin-w=4"
           alt="GitHub Tropies"
         />
-      </td>
+  </thead>
+</table>
+<table aligh="center" border="0" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+        </td>
        <td>
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reim-developer&layout=compact&theme=dark&no_border=true"
@@ -25,9 +30,9 @@
         />
       </td>
     </tr>
+    </tr>
   </thead>
 </table>
-
 # Contact Me
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1043482116127727666) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Reim_empdev)
 
