@@ -37,6 +37,15 @@
   </thead>
 </table>
 
+# Current Project:
+**Sephera**: Count, stat, and analyze your project — easily and quickly.
+
+* **Pipy**: [![PyPI version](https://img.shields.io/pypi/v/Sephera.svg)](https://pypi.org/project/Sephera/) [![Downloads](https://static.pepy.tech/badge/Sephera)](https://pepy.tech/project/Sephera)
+* **Libraires.io**: [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/sephera)](https://libraries.io/pypi/Sephera)
+
+**zClipboard**: Morden Cliphboard Manager
+* **AUR**: [![AUR version](https://img.shields.io/aur/version/zclipboard)](https://aur.archlinux.org/packages/zclipboard)
+
 ## Contact Me
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1043482116127727666) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Reim_empdev)
 
