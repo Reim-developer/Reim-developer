@@ -43,7 +43,7 @@
 * **Pipy**: [![PyPI version](https://img.shields.io/pypi/v/Sephera.svg)](https://pypi.org/project/Sephera/) [![Downloads](https://static.pepy.tech/badge/Sephera)](https://pepy.tech/project/Sephera)
 * **Libraires.io**: [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/sephera)](https://libraries.io/pypi/Sephera)
 
-**zClipboard**: Morden Cliphboard Manager
+**zClipboard**: A Morden Cliphboard Manager
 * **AUR**: [![AUR version](https://img.shields.io/aur/version/zclipboard)](https://aur.archlinux.org/packages/zclipboard)
 
 ## Contact Me
