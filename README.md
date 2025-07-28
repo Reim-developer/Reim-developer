@@ -28,7 +28,7 @@
         </td>
        <td>
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reim-developer&layout=compact&theme=dark&no_border=true"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=reim-developer&layout=compact&langs_count=12&card_width=320&theme=highcontrast"
           alt="Languages used"
         />
       </td>
