@@ -43,7 +43,12 @@
 * **Pipy**: [![PyPI version](https://img.shields.io/pypi/v/Sephera.svg)](https://pypi.org/project/Sephera/) [![Downloads](https://static.pepy.tech/badge/Sephera)](https://pepy.tech/project/Sephera)
 * **Libraires.io**: [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/sephera)](https://libraries.io/pypi/Sephera)
 
-**zClipboard**: *A Morden Cliphboard Manager*
+**magical_rs:** *Rust framework for file recognition, aiming for high extensibility and customization.*
+
+* **Crates.io:** [![Crate version](https://img.shields.io/crates/v/magical_rs.svg)](https://crates.io/crates/magical_rs) [![Crates.io downloads](https://img.shields.io/crates/d/magical_rs.svg)](https://crates.io/crates/magical_rs)
+* **Libraries.io:** [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/cargo/magical_rs.svg)](https://libraries.io/cargo/magical_rs)
+
+**zClipboard**: *A Morden Clipboard Manager*
 * **AUR**: [![AUR version](https://img.shields.io/aur/version/zclipboard)](https://aur.archlinux.org/packages/zclipboard)
 
 ## Contact Me
